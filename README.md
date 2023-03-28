@@ -1,6 +1,6 @@
 # Prompts-for-ReaderGPT
 
-<img src="github.com_evenwu_Prompts-for-ReaderGPT.png" style="width:50%;height:auto;min-width:100%;" />
+<img src="github.com_evenwu_Prompts-for-ReaderGPT.png" style="width:100%;height:auto;max-width:300px;" />
 
 這邊儲存一些我覺得有用的 prompt
 
